@@ -7,4 +7,7 @@ public class PruebaED1
 	//Esta es la segunda prueba para la Práctica de Entorno
 	
 	//Estas últimas líneas y este comentario han sido escritos por José Francisco Soto Camacho
+	
+	//Estas últimas líneas y este comentario han sido escritos por Alvaro Sanchez Doncel
+
 }
